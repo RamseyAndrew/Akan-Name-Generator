@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: hsl(211, 26%, 84%);
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 500px;
+    margin: 80px auto;
+    padding: 20px;
+    background: teal;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  h1 {
+    color: bisque;
+  }
+  
+  .gender-group {
+    margin: 15px 0;
+  }
+  
+  input[type="date"], button {
+    padding: 15px;
+    width: 80%;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 50px;
+  }
+  
+  button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer
+    transition background-color 2.0s ease;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+  }
+  
