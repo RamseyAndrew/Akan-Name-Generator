@@ -3,7 +3,7 @@
 The **Akan Name Generator** is a simple web application that calculates the day of the week a user was born and assigns them a traditional Akan name based on their gender. Akan names originate from Ghana and are based on the day of the week someone is born.
 
 ## 🔗 Live Demo
-[Click here to try it out](https://your-vercel-link.vercel.app)  
+[Click here to try it out](https://akan-name-generator-lilac.vercel.app/)  
 
 ## ✨ Features
 - Input your **date of birth**
